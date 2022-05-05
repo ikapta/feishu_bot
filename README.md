@@ -1,6 +1,6 @@
 # feishu_bot
 
-support feishu bot webhook and listen bot call event
+support bot webhook and listen bot call event for feishu
 
 ## useage
 [bot_webhook](https://github.com/ikapta/feishu_bot/blob/main/bot/bot_test.go)
